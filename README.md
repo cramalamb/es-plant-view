@@ -4,7 +4,7 @@ Live condenser plant view for two demonstration units — an interactive
 schematic with per-area sensor readings and a time-series chart.
 
 **Open it:** https://cramalamb.github.io/es-plant-view/
-(light-palette version: https://cramalamb.github.io/es-plant-view/light.html)
+(dark control-room version: https://cramalamb.github.io/es-plant-view/dark.html)
 
 - **Sample A** — single-pressure, single-pass, twin-bank surface condenser
   with a divided West/East waterbox and eight metered steam-side bundles.
