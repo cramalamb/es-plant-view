@@ -7,7 +7,7 @@ schematic with per-area sensor readings and a time-series chart
 (dark control-room version: https://cramalamb.github.io/es-plant-view/dark.html)
 
 - **Sample A** — single-pressure, single-pass, twin-bank surface condenser
-  with a divided West/East waterbox and eight metered steam-side bundles.
+  with a divided West/East waterbox and eight metered steam-side bundles
 - **Sample B** — twin-shell, dual-pressure, single-pass condenser with the
   circulating water routed in series through the L.P. and H.P. shells
 
